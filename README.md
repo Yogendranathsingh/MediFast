@@ -29,4 +29,4 @@ Your site must be visible at
 `http://localhost:3000`
 
 ## Any Issues Setting-up?
-Drop a mail at `yashvardhan513@gmail.com` and I will be more than happy to help you :)
+Drop a mail at `yogendra.prayas94jee19@gmail.com` and I will be more than happy to help you :)
