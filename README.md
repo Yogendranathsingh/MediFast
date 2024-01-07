@@ -1,12 +1,6 @@
 # Installation
 The project is based on NodeJs, Express and MongoDB. You need to make sure that you have compatible versions of node/yarn, npm and mongoDB installed. CSS is used as the stylesheet here.
 
-
-## Initial Setup
-
-Clone the repository
-`https://github.com/Grumpyyash/MediFast-Innovate_NSUT.git`
-
 ## Local Development Setup
 You will need to have npm CLI installed into your system
 
