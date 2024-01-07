@@ -23,7 +23,7 @@ app.use(bodyParser.json({
   extended:true
 }))
 
-mongoose.connect("mongodb+srv://admin-yash:Yash123@cluster0-1lje1.mongodb.net/userDB", {
+mongoose.connect("mongodb+srv://nodejs:nodejs@cluster0.n2a5c.mongodb.net/userDB?retryWrites=true&w=majority", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
